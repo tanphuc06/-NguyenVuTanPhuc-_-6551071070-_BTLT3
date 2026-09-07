@@ -1,0 +1,16 @@
+C:\Users\Lenovo\5\5\obj\Debug\net10.0-windows\_5.Form1.resources
+C:\Users\Lenovo\5\5\obj\Debug\net10.0-windows\5.csproj.GenerateResource.cache
+C:\Users\Lenovo\5\5\obj\Debug\net10.0-windows\5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\5\5\obj\Debug\net10.0-windows\5.AssemblyInfoInputs.cache
+C:\Users\Lenovo\5\5\obj\Debug\net10.0-windows\5.AssemblyInfo.cs
+C:\Users\Lenovo\5\5\obj\Debug\net10.0-windows\5.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\5\5\bin\Debug\net10.0-windows\5.exe
+C:\Users\Lenovo\5\5\bin\Debug\net10.0-windows\5.deps.json
+C:\Users\Lenovo\5\5\bin\Debug\net10.0-windows\5.runtimeconfig.json
+C:\Users\Lenovo\5\5\bin\Debug\net10.0-windows\5.dll
+C:\Users\Lenovo\5\5\bin\Debug\net10.0-windows\5.pdb
+C:\Users\Lenovo\5\5\obj\Debug\net10.0-windows\5.dll
+C:\Users\Lenovo\5\5\obj\Debug\net10.0-windows\refint\5.dll
+C:\Users\Lenovo\5\5\obj\Debug\net10.0-windows\5.pdb
+C:\Users\Lenovo\5\5\obj\Debug\net10.0-windows\5.genruntimeconfig.cache
+C:\Users\Lenovo\5\5\obj\Debug\net10.0-windows\ref\5.dll
